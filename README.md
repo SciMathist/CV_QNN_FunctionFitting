@@ -1,6 +1,4 @@
-# CV_QNN_FunctionFitting
-
-## Function Fitting with Continuous Variable Quantum Neural Network
+# Function Fitting with Continuous Variable Quantum Neural Network
 Saptadip Saha  
 **National Institute of Technology**  
 Agartala, India  
