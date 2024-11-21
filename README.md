@@ -1,7 +1,6 @@
 # CV_QNN_FunctionFitting
 
 ## Function Fitting with Continuous Variable Quantum Neural Network
-REYES 2024 Final project.
 Saptadip Saha  
 **National Institute of Technology**  
 Agartala, India  
